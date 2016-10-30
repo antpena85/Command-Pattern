@@ -12,7 +12,7 @@ public class Cruiser implements ComfortController
 	@Override
 	public void horsePower()
 	{
-		System.out.println("Horsepower output is at 75%");
+		System.out.println("Horsepower output is at 65%");
 	}
 
 	@Override
